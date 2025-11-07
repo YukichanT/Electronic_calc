@@ -3,7 +3,7 @@ Tools for electronics and physics calculation for engineering students.
 
 MIT License
 
-Copyright (c) 2025 Yuki
+Copyright (c) 2025 Yuki　T
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
